@@ -1,0 +1,15 @@
+ framework module IJKMediaFramework {
+header "IJKAVMoviePlayerController.h"
+header "IJKFFMonitor.h"
+header "IJKFFMoviePlayerController.h"
+header "IJKFFOptions.h"
+header "IJKKVOController.h"
+header "IJKMediaFramework.h"
+header "IJKMediaModule.h"
+header "IJKMediaPlayback.h"
+header "IJKMediaPlayer.h"
+header "IJKMPMoviePlayerController.h"
+header "IJKNotificationManager.h"
+header "IJKSDLGLViewProtocol.h"
+     export *
+ }
